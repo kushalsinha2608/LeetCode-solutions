@@ -22,6 +22,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
