@@ -7,6 +7,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -30,4 +31,12 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
