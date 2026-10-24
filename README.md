@@ -28,6 +28,7 @@ My solution to leetcode problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ My solution to leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
