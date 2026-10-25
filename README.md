@@ -13,6 +13,7 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -23,6 +24,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@ My solution to leetcode problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -65,6 +68,7 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Newton's Method
 |  |
@@ -74,4 +78,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
