@@ -13,12 +13,14 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Newton's Method
@@ -87,4 +90,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
