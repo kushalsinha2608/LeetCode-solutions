@@ -44,11 +44,13 @@ My solution to leetcode problems
 | [0009-palindrome-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ My solution to leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
