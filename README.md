@@ -7,6 +7,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -67,6 +68,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -118,4 +120,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
