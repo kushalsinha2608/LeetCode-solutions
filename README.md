@@ -57,6 +57,7 @@ My solution to leetcode problems
 | [0263-ugly-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
