@@ -21,6 +21,7 @@ My solution to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,4 +148,12 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
