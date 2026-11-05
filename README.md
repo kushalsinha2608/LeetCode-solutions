@@ -18,6 +18,7 @@ My solution to leetcode problems
 | [0041-first-missing-positive](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@ My solution to leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -188,4 +190,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
