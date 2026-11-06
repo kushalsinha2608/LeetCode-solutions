@@ -30,6 +30,7 @@ My solution to leetcode problems
 | [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@ My solution to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -119,6 +121,7 @@ My solution to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -138,6 +141,7 @@ My solution to leetcode problems
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
