@@ -95,6 +95,7 @@ My solution to leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
@@ -111,6 +112,7 @@ My solution to leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
