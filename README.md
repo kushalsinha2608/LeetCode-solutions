@@ -35,6 +35,7 @@ My solution to leetcode problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
