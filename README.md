@@ -43,6 +43,7 @@ My solution to leetcode problems
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
@@ -125,6 +126,7 @@ My solution to leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
