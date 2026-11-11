@@ -46,6 +46,7 @@ My solution to leetcode problems
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -67,6 +68,7 @@ My solution to leetcode problems
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +224,7 @@ My solution to leetcode problems
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 ## Backtracking
 |  |
 | ------- |
