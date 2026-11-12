@@ -66,6 +66,7 @@ My solution to leetcode problems
 | [0041-first-missing-positive](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -111,6 +112,7 @@ My solution to leetcode problems
 | [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -168,6 +170,7 @@ My solution to leetcode problems
 | [0018-4sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
