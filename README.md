@@ -22,6 +22,7 @@ My solution to leetcode problems
 | [0078-subsets](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +135,7 @@ My solution to leetcode problems
 | [0031-next-permutation](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
@@ -149,6 +151,7 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
