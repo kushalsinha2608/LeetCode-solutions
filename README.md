@@ -26,6 +26,7 @@ My solution to leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +71,7 @@ My solution to leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -179,6 +181,7 @@ My solution to leetcode problems
 | [0018-4sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
@@ -240,6 +243,7 @@ My solution to leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -283,4 +287,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0292-nim-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
