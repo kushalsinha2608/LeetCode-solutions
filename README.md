@@ -112,6 +112,7 @@ My solution to leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -225,6 +226,7 @@ My solution to leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -253,4 +255,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
