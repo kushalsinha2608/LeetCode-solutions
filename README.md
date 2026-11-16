@@ -18,6 +18,7 @@ My solution to leetcode problems
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
@@ -208,6 +209,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
@@ -221,6 +223,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Divide and Conquer
 |  |
