@@ -123,6 +123,7 @@ My solution to leetcode problems
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -146,6 +147,7 @@ My solution to leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -210,6 +212,7 @@ My solution to leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
