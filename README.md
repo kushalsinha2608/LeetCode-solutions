@@ -28,6 +28,7 @@ My solution to leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -74,6 +75,7 @@ My solution to leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -186,6 +188,7 @@ My solution to leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -221,6 +224,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -232,10 +236,12 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +256,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -297,4 +304,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
