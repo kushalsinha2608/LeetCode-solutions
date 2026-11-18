@@ -128,6 +128,7 @@ My solution to leetcode problems
 | [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
