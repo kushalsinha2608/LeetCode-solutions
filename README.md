@@ -54,6 +54,7 @@ My solution to leetcode problems
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -201,6 +202,7 @@ My solution to leetcode problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ My solution to leetcode problems
 | [0011-container-with-most-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
