@@ -109,6 +109,7 @@ My solution to leetcode problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2652-sum-multiples) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
