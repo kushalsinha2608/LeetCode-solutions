@@ -17,6 +17,7 @@ My solution to leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -148,6 +149,7 @@ My solution to leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0125-valid-palindrome) |
@@ -220,6 +222,7 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 ## Manacher
@@ -253,11 +256,13 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
