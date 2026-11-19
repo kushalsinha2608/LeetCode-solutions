@@ -103,6 +103,7 @@ My solution to leetcode problems
 | [0050-powx-n](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -282,6 +283,7 @@ My solution to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -326,4 +328,8 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
