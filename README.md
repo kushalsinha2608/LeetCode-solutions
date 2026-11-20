@@ -113,6 +113,7 @@ My solution to leetcode problems
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
