@@ -111,6 +111,7 @@ My solution to leetcode problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
