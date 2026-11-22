@@ -83,6 +83,7 @@ My solution to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -139,6 +140,7 @@ My solution to leetcode problems
 | [0344-reverse-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -167,6 +169,7 @@ My solution to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -226,6 +229,7 @@ My solution to leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
