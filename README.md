@@ -60,6 +60,7 @@ My solution to leetcode problems
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -119,6 +120,7 @@ My solution to leetcode problems
 | [2544-alternating-digit-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -232,6 +234,7 @@ My solution to leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,4 +349,9 @@ My solution to leetcode problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
