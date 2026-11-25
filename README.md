@@ -59,6 +59,7 @@ My solution to leetcode problems
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2706-buy-two-chocolates](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3046-split-the-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -224,6 +225,7 @@ My solution to leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2706-buy-two-chocolates](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -265,6 +267,7 @@ My solution to leetcode problems
 | [0055-jump-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2706-buy-two-chocolates](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
