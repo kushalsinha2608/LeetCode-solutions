@@ -36,6 +36,7 @@ My solution to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +85,7 @@ My solution to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
