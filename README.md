@@ -113,6 +113,7 @@ My solution to leetcode problems
 | [0258-add-digits](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0292-nim-game) |
+| [0441-arranging-coins](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -193,6 +194,7 @@ My solution to leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
