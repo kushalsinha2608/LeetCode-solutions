@@ -1,14 +1,31 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
     int n=prices.length;
-    Arrays.sort(prices);
-    if(n<2)
+    int min=Integer.MAX_VALUE;
+    int smin=Integer.MAX_VALUE;
+    int mini=-1;
+    for(int i=0;i<n;i++)
     {
-        return 0;
+        if(prices[i]<min)
+        {
+            min=prices[i];
+            mini=i;
+        }
     }
-    if(prices[0]+prices[1]<=money)
+    for(int i=0;i<n;i++)
     {
-        return money-(prices[0]+prices[1]);
+        if(i==mini)
+        {
+            continue;
+        }
+        else
+        {
+            smin=Math.min(smin,prices[i]);
+        }
+    }
+    if(min+smin<=money)
+    {
+        return money-(min+smin);
     }
     return money;
     }
