@@ -125,6 +125,7 @@ My solution to leetcode problems
 | [2652-sum-multiples](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
@@ -314,6 +315,7 @@ My solution to leetcode problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Union-Find
