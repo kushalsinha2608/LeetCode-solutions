@@ -9,6 +9,10 @@ class Solution {
             c++;
         }
     }
-    return c<=1;   
+    if(c<=1)
+    {
+        return true;
+    }   
+    return false;
     }
 }
