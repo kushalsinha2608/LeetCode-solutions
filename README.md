@@ -128,6 +128,7 @@ My solution to leetcode problems
 | [3360-stone-removal-game](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
