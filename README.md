@@ -118,6 +118,7 @@ My solution to leetcode problems
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kushalsinha2608/LeetCode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
